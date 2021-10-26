@@ -1,0 +1,42 @@
+.DS_Store
+node_modules/
+package-lock.json
+/dist
+/docs
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+src/assets/img/examples/
+src/assets/img/faces/
+src/assets/img/apple-icon.png
+src/assets/img/bg.jpg
+src/assets/img/bg2.jpg
+src/assets/img/bg3.jpg
+src/assets/img/bg7.jpg
+src/assets/img/city-profile.jpg
+src/assets/img/city.jpg
+src/assets/img/landing.jpg
+src/assets/img/leaf1.png
+src/assets/img/leaf2.png
+src/assets/img/leaf3.png
+src/assets/img/leaf4.png
+src/assets/img/nature-2.jpg
+src/assets/img/nature-3.jpg
+src/assets/img/nature.jpg
+src/assets/img/profile_city.jpg
+src/assets/img/profile.jpg
